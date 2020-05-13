@@ -1,0 +1,136 @@
+{"价格": "¥18299.00", "详情": "0人付款", "title": "【24期免息】Apple 2019新品 MacBook Pro 16寸 九代六核i7 2.6GHz/16G/512G笔记本电脑轻薄本【带触控栏】", "shop": "绿森数码官方旗舰店", "location": "浙江 杭州"}
+{"价格": "¥21299.00", "详情": "6人付款", "title": "【24期免息】Apple 2019新品 MacBook Pro 16寸九代八核 i9 2.3/16G/1TB 笔记本电脑轻薄本【带触控栏】", "shop": "绿森数码官方旗舰店", "location": "浙江 杭州"}
+{"价格": "¥8988.00", "详情": "29人付款", "title": "【24期免息 现货速发】Apple/苹果 MacBook Pro 13.3英寸2019款苹果笔记本电脑128/256/512G轻薄商务", "shop": "宏音伟业数码专营", "location": "广东 深圳"}
+{"价格": "¥18999.00", "详情": "", "title": "Apple/苹果 16 英寸 MacBook Pro 2.6GHz 6 核处理器 512GB 存储容量 AMD Radeon Pro 5300M", "shop": "applestore官方旗舰店", "location": "上海"}
+{"价格": "¥18999.00", "详情": "41人付款", "title": "【24期免息】Apple/苹果16英寸新MacBook Pro i7处理器16G内存512GB笔记本电脑学生商务通用", "shop": "彪客数码旗舰店", "location": "浙江 杭州"}
+{"价格": "¥7999.00", "详情": "33人付款", "title": "2020新款13寸苹果笔记本电脑 Apple/苹果 MacBook Pro MPXQ2CH/A", "shop": "小俊店铺tb", "location": "广东 深圳"}
+{"价格": "¥7628.00", "详情": "370人付款", "title": "2020新款Apple/苹果MacBook Pro MPXQ2CH/A笔记本电脑13寸16定制", "shop": "mrmaccn", "location": "上海"}
+{"价格": "¥9388.00", "详情": "152人付款", "title": "【苏宁正品】2019新款 Apple/苹果 Macbook Pro 13.3英寸1.4G四核i5 8G 128G/256G固态645显卡触控ID和触控栏", "shop": "苏宁易购官方旗舰店", "location": "江苏 南京"}
+{"价格": "¥8295.00", "详情": "54人付款", "title": "2019全新款苹果笔记本电脑macbook pro13/16英寸i7手提超轻薄15寸", "shop": "奢品汇1", "location": "广东 广州"}
+{"价格": "¥5808.00", "详情": "156人付款", "title": "2019新款Apple/苹果 MacBook Pro MPXQ2CH/A办公13寸15笔记本电脑", "shop": "乐途本本", "location": "广东 广州"}
+{"价格": "¥7388.00", "详情": "216人付款", "title": "Apple 苹果 18年 19年 13寸 15寸 MacBook Pro 2019款 全新官翻机", "shop": "摩集电商", "location": "山东 淄博"}
+{"价格": "¥16200.00", "详情": "163人付款", "title": "2019新Apple/苹果 MacBook Pro MV912 MV932笔记本电脑13寸16定制", "shop": "朗朗电玩", "location": "浙江 杭州"}
+{"价格": "¥1080.00", "详情": "95人付款", "title": "苹果笔记本电脑超薄办公MacBook Air轻薄便携学生游戏本i7手提pro", "shop": "黄墩伟电脑商城", "location": "广东 广州"}
+{"价格": "¥2388.00", "详情": "849人付款", "title": "苹果笔记本电脑超薄男生款macbook轻薄便携air办公用学生pro商务", "shop": "可妮服装", "location": "广东 深圳"}
+{"价格": "¥7490.00", "详情": "320人付款", "title": "2019款Apple/苹果 MacBook Pro MPXQ2CH/A笔记本电脑13寸16寸定制", "shop": "静房王树楷", "location": "上海"}
+{"价格": "¥9888.00", "详情": "276人付款", "title": "【24期免息】2019款 Apple/苹果 MacBook Pro 13.3英寸1.4GHz四核8代i5 8G内存 128G/256G 触控栏和触控ID", "shop": "苏宁易购官方旗舰店", "location": "江苏 南京"}
+{"价格": "¥21299.00", "详情": "6人付款", "title": "【24期免息】Apple 2019新品 MacBook Pro 16寸九代八核 i9 2.3/16G/1TB 笔记本电脑轻薄本【带触控栏】", "shop": "绿森数码官方旗舰店", "location": "浙江 杭州"}
+{"价格": "¥9699.00", "详情": "36人付款", "title": "【24期免息】Apple 2019款 Macbook Pro 13.3 八代i5 8G 256G RP645显卡 苹果笔记本电脑 轻薄本【带触控栏】", "shop": "绿森数码官方旗舰店", "location": "浙江 杭州"}
+{"价格": "¥7680.00", "详情": "458人付款", "title": "全新2020款Apple/苹果 MacBook Pro MPXQ2CH/A笔记本电脑13寸16寸", "shop": "李小麦的店", "location": "北京"}
+{"价格": "¥2158.00", "详情": "940人付款", "title": "Apple/苹果笔记本电脑MacBook Pro超薄Air商务办公游戏手提本学生", "shop": "miaolingxuan520", "location": "广东 深圳"}
+{"价格": "¥9999.00", "详情": "", "title": "Apple/苹果 13 英寸 MacBook Pro 1.4GHz 4 核处理器 (Turbo Boost 最高可达 3.9GHz) 256GB 存储容量 触控栏和触控 ID", "shop": "applestore官方旗舰店", "location": "上海"}
+{"价格": "¥9899.00", "详情": "22人付款", "title": "2020款13寸16寸苹果笔记本电脑Apple/苹果 MacBook Pro MPXQ2CH/A", "shop": "小俊店铺tb", "location": "广东 深圳"}
+{"价格": "¥2588.00", "详情": "1486人付款", "title": "苹果笔记本电脑女生款超薄macbook轻薄便携air办公用学生pro商务", "shop": "柳絮飘clr", "location": "广东 广州"}
+{"价格": "¥1880.00", "详情": "595人付款", "title": "Apple/苹果笔记本电脑MacBook Air女生款超薄手提轻薄便携学生pro", "shop": "绿梅电脑商城", "location": "江苏 苏州"}
+{"价格": "¥14499.00", "详情": "", "title": "Apple/苹果 13 英寸 MacBook Pro 2.0GHz 4 核处理器 (Turbo Boost 最高可达 3.8GHz) 512GB 存储容量 触控栏和触控 ID", "shop": "applestore官方旗舰店", "location": "上海"}
+{"价格": "¥7000.00", "详情": "88人付款", "title": "2020新款Apple/苹果MacBook Pro MPXQ2CH/A笔记本电脑定制13 16", "shop": "zjdtpprint", "location": "浙江 杭州"}
+{"价格": "¥1188.00", "详情": "328人付款", "title": "Apple/苹果MacBook Pro笔记本电脑超薄手提轻薄便携学生游戏本air", "shop": "贞子电脑商城", "location": "广东 深圳"}
+{"价格": "¥7508.00", "详情": "5人付款", "title": "2018款Apple苹果 MacBook Pro笔记本电脑超薄1315寸全新正品19款", "shop": "奢品汇1", "location": "广东 广州"}
+{"价格": "¥5758.00", "详情": "192人付款", "title": "Apple/苹果 MacBook Pro MPXQ2CH/A13寸15寸i7超薄苹果笔记本电脑", "shop": "rlhuangrl", "location": "广东 广州"}
+{"价格": "¥7550.00", "详情": "136人付款", "title": "全新2019款Apple/苹果 MacBook Pro MV912 MV932笔记本电脑16寸15", "shop": "尤里xx", "location": "北京"}
+{"价格": "¥7599.00", "详情": "55人付款", "title": "2020新13寸Apple/苹果 MacBook Pro MPXQ2CH/A笔记本电脑定制1316", "shop": "朗朗电玩", "location": "浙江 杭州"}
+{"价格": "¥1266.00", "详情": "538人付款", "title": "Apple/苹果 MacBook Air MQD32CH/A 超薄学生pro手提笔记本电脑", "shop": "陈小仔仔", "location": "上海"}
+{"价格": "¥2888.00", "详情": "178人付款", "title": "macbook pro苹果笔记本电脑女生款超薄air轻薄便携办公用学生商务", "shop": "柳絮飘clr", "location": "广东 广州"}
+{"价格": "¥10000.00", "详情": "270人付款", "title": "2019新款Apple/苹果 MacBook Pro MLH42CH/A国行笔记本16寸可定制", "shop": "zjdtpprint", "location": "浙江 杭州"}
+{"价格": "¥5556.00", "详情": "198人付款", "title": "Apple苹果2019MacBook Pro13寸15i7超轻薄商务游戏办公笔记本电脑", "shop": "hongjie021ji", "location": "广东 广州"}
+{"价格": "¥980.00", "详情": "2547人付款", "title": "Apple/苹果 MacBook Pro 笔记本电脑超薄游戏本i7轻薄便携学生air", "shop": "乐佳国际贸易", "location": "浙江 杭州"}
+{"价格": "¥1266.00", "详情": "578人付款", "title": "苹果笔记本电脑MacBook超薄Air学生pro游戏i7手提商务办公本正品", "shop": "li李丹淼", "location": "广东 广州"}
+{"价格": "¥7350.00", "详情": "14人付款", "title": "2020新款Apple/苹果 MacBook Pro MPXQ2CH/A笔记本电脑定制13寸16", "shop": "最低最诚信", "location": "江苏 南京"}
+{"价格": "¥1399.00", "详情": "415人付款", "title": "Apple/苹果笔记本电脑MacBookPro Air超薄学生手提i5独显办公设计", "shop": "盈达通讯数码", "location": "广东 深圳"}
+{"价格": "¥7600.00", "详情": "35人付款", "title": "2020新款Apple/苹果 MacBook Pro MPXQ2CH/A笔记本电脑13寸16定制", "shop": "尤里xx", "location": "江苏 南京"}
+{"价格": "¥8918.00", "详情": "135人付款", "title": "Apple苹果MacBook Pro15寸i9独显32G游戏设计本16笔记本电脑2019", "shop": "hongjie021ji", "location": "广东 广州"}
+{"价格": "¥780.00", "详情": "541人付款", "title": "苹果笔记本电脑macbook air游戏本超薄手提pro外星人戴尔联想惠普", "shop": "云日商城", "location": "北京"}
+{"价格": "¥9230.00", "详情": "30人付款", "title": "Apple/苹果 MacBook Pro13 英寸 2.4 GHz Retina 显示屏15寸/16寸", "shop": "wally31", "location": "北京"}
+{"价格": "¥1280.00", "详情": "131人付款", "title": "Apple/苹果笔记本i7电脑超薄MacBook Air轻薄便携学生游戏手提Pro", "shop": "童童乐内衣", "location": "广东 广州"}
+{"价格": "¥1380.00", "详情": "680人付款", "title": "苹果笔记本电脑MacBook Air女生款超薄i7轻薄便携学生用大学生pro", "shop": "笔记本电脑批发商城", "location": "浙江 杭州"}
+{"价格": "¥1258.00", "详情": "809人付款", "title": "Apple/苹果笔记本电脑MacBook Air轻薄便携学生超薄游戏本手提pro", "shop": "周旺数码电脑", "location": "浙江 杭州"}
+{"价格": "¥5808.00", "详情": "213人付款", "title": "Apple/苹果 MacBook Pro 15寸i7 13寸商务办公超薄苹果笔记本电脑", "shop": "乐途本本", "location": "广东 广州"}
+{"价格": "¥9059.00", "详情": "11人付款", "title": "2020新款Apple/苹果 MacBook Pro MV962CH/A国行笔记本13寸16定制", "shop": "nanncy8313256_2009", "location": "上海"}
+{"价格": "¥17288.00", "详情": "0人付款", "title": "【现货速发】Apple/苹果 16英寸MacBook Pro i7处理器6核九代16GB内存512GB固态硬盘触控栏和触控ID视网膜屏", "shop": "润森数码旗舰店", "location": "广东 深圳"}
+{"价格": "¥20188.00", "详情": "2人付款", "title": "【现货速发】Apple/苹果 16英寸MacBook Pro i9处理器8核九代16GB内存1TB固态硬盘触控栏触控ID视网膜屏超薄", "shop": "润森数码旗舰店", "location": "广东 深圳"}
+{"价格": "¥17688.00", "详情": "96人付款", "title": "【官方正品 新款】Apple/苹果16英寸新MacBookPro九代八核 i9/16G/1TB笔记本电脑商务本16寸触控栏和触控ID", "shop": "乐自由数码专营店", "location": "广东 广州"}
+{"价格": "¥7000.00", "详情": "28人付款", "title": "2019款Apple/苹果 MacBook Pro MF839CH/A 932 9Q2 13 15寸 16寸", "shop": "麦克团mactuancom", "location": "北京"}
+{"价格": "¥1780.00", "详情": "423人付款", "title": "i7苹果笔记本电脑MacBook Air轻薄便携学生手提游戏本超薄12寸Pro", "shop": "苹果电脑批发商城", "location": "广东 佛山"}
+{"价格": "¥3800.00", "详情": "60人付款", "title": "Apple/苹果 MacBook Pro MGXC2CH/A 15寸视网膜 MJLQ2 LT2 笔记本", "shop": "uka66973952009", "location": "广东 深圳"}
+{"价格": "¥1988.00", "详情": "196人付款", "title": "苹果笔记本电脑轻薄便携学生MacBook超薄Air商务办公用1315寸Pro", "shop": "t_1514895345539_0472", "location": "广东 深圳"}
+{"价格": "¥7530.00", "详情": "10人付款", "title": "2020新款Apple/苹果 MacBook Pro MPXQ2CH/A笔记本电脑13/16现货", "shop": "860803华晶", "location": "浙江 杭州"}
+{"价格": "¥880.00", "详情": "535人付款", "title": "苹果笔记本电脑超薄MacBook Air游戏本手提pro外星人戴尔联想惠普", "shop": "斯宜电脑批发", "location": "广东 广州"}
+{"价格": "¥1888.00", "详情": "194人付款", "title": "苹果高配置笔记本电脑macbook办公用i7游戏本商务pro超薄air学生", "shop": "li李丹淼", "location": "广东 广州"}
+{"价格": "¥3688.00", "详情": "64人付款", "title": "苹果笔记本电脑i7游戏本高配macbook独显pro设计师专用商务办公", "shop": "tb45819969", "location": "广东 广州"}
+{"价格": "¥13699.00", "详情": "206人付款", "title": "【24期免息】2019款Apple/苹果 MacBook Pro 13.3英寸 2.4GHz四核8代i5 8G 256G/512G固态 655核显 带触控栏", "shop": "苏宁易购官方旗舰店", "location": "江苏 南京"}
+{"价格": "¥8599.00", "详情": "13人付款", "title": "【24期免息】Apple 2019款 Macbook Pro 13.3 八代i5 8G 128G RP645显卡 苹果笔记本电脑轻薄本【带触控栏】", "shop": "绿森数码官方旗舰店", "location": "浙江 杭州"}
+{"价格": "¥13499.00", "详情": "0人付款", "title": "【24期免息】Apple 2019新品 Macbook Pro 13.3 八代i5 8G 256G 苹果笔记本电脑 轻薄本【带触控栏】", "shop": "绿森数码官方旗舰店", "location": "浙江 杭州"}
+{"价格": "¥8558.00", "详情": "3人付款", "title": "Apple/苹果 MacBook Pro笔记本电脑 13.3英寸I5 8G 128G 轻薄便携上网本", "shop": "苏宁易购官方旗舰店", "location": "江苏 南京"}
+{"价格": "¥11499.00", "详情": "", "title": "Apple/苹果 13 英寸 MacBook Pro 1.4GHz 4 核处理器 (Turbo Boost 最高可达 3.9GHz) 512GB 存储容量 触控栏和触控 ID", "shop": "applestore官方旗舰店", "location": "上海"}
+{"价格": "¥4488.00", "详情": "129人付款", "title": "i7苹果笔记本电脑女生款超薄轻薄便携macbook12寸air学生pro正品", "shop": "lai15218630395", "location": "广东 深圳"}
+{"价格": "¥10000.00", "详情": "69人付款", "title": "全新2019款Apple/苹果 16英寸 MacBook Pro MVVJ2 笔记本电脑定制", "shop": "李小麦的店", "location": "上海"}
+{"价格": "¥1000.00", "详情": "78人付款", "title": "【2019新款】Apple/苹果 13.3英寸 Macbook Pro 笔记本电脑1.4GHz 四核处理器 128GB/256GB 存储容量", "shop": "乐自由数码专营店", "location": "广东 深圳"}
+{"价格": "¥8351.64", "详情": "47人付款", "title": "Apple苹果 MacBook Pro 2019新款定制官翻 13 15寸二手笔记本电脑", "shop": "hinatavjack", "location": "广东 广州"}
+{"价格": "¥3388.00", "详情": "271人付款", "title": "苹果笔记本电脑女生超轻薄MacBook Air13寸11便携Pro商务办公学生", "shop": "棉花糖07097", "location": "浙江 杭州"}
+{"价格": "¥1260.00", "详情": "207人付款", "title": "苹果笔记本电脑macbook学生pro手提游戏本轻薄便携air女生款超薄", "shop": "罗若谊", "location": "广东 深圳"}
+{"价格": "¥3688.00", "详情": "71人付款", "title": "新款苹果 MacBook Pro笔记本电脑13寸15寸商务办公设计剪辑游戏本", "shop": "li李丹淼", "location": "广东 广州"}
+{"价格": "¥5788.00", "详情": "66人付款", "title": "新款Apple/苹果 MacBook Pro MPXQ2CH/A商务笔记本电脑15寸超薄13", "shop": "lsx淘依阁", "location": "广东 深圳"}
+{"价格": "¥2188.00", "详情": "92人付款", "title": "Apple/苹果 MacBook Pro MF839CH/A840 13寸15寸i7独显笔记本电脑", "shop": "x孤独的总和", "location": "广东 深圳"}
+{"价格": "¥1888.00", "详情": "37人付款", "title": "苹果笔记本电脑女生款超薄macbook轻薄便携air办公用学生pro商务", "shop": "思林miao", "location": "广东 广州"}
+{"价格": "¥9458.00", "详情": "50人付款", "title": "2019苹果 MacBook Pro 13 15英寸i7 i9笔记本32G独显电脑官方定制", "shop": "hongjie021ji", "location": "广东 广州"}
+{"价格": "¥3688.00", "详情": "106人付款", "title": "苹果笔记本电脑超薄设计师专用轻薄便携办公用macbook学生pro商务", "shop": "455216873com", "location": "广东 深圳"}
+{"价格": "¥4399.00", "详情": "59人付款", "title": "Apple/苹果 MacBook Pro MF839CH/A13寸笔记本电脑办公本15英寸i7", "shop": "乐途本本", "location": "广东 广州"}
+{"价格": "¥3688.00", "详情": "91人付款", "title": "苹果笔记本电脑设计师专用macbook办公用i7游戏本商务pro超薄air", "shop": "柳絮飘clr", "location": "广东 广州"}
+{"价格": "¥15000.00", "详情": "47人付款", "title": "20款Apple/苹果 MacBook Pro MPXQ2CH/A13寸 16寸官方标配", "shop": "安琪糖糖", "location": "广东 深圳"}
+{"价格": "¥8999.00", "详情": "7人付款", "title": "【送蓝牙鼠标 两年联保】Apple/苹果 MacBook Pro13英寸128GB1.4GHz四核I5处理器笔记本电脑家用办公学生商务", "shop": "润森数码旗舰店", "location": "广东 深圳"}
+{"价格": "¥7488.00", "详情": "10人付款", "title": "2020新16寸Apple/苹果 MacBook Pro MPXQ2CH/A笔记本电脑定制1315", "shop": "nanncy8313256_2009", "location": "上海"}
+{"价格": "¥3188.00", "详情": "77人付款", "title": "Apple苹果MacBookAir超薄pro办公商务笔记本电脑 13寸游戏本便携", "shop": "apple数码科技1909", "location": "广东 广州"}
+{"价格": "¥1888.00", "详情": "137人付款", "title": "苹果笔记本电脑Macbook超薄air女生款高配游戏本Pro商务办公学生", "shop": "庄海槟88", "location": "广东 深圳"}
+{"价格": "¥3888.00", "详情": "205人付款", "title": "macbook12寸笔记本电脑苹果轻薄便携超薄办公用pro商务air学生i7", "shop": "魔豆范儿", "location": "广东 深圳"}
+{"价格": "¥1288.00", "详情": "64人付款", "title": "Apple/苹果 MacBook Air MMGF2 Pro超薄i5独显手提本笔记本电脑17", "shop": "小强9淘", "location": "广东 广州"}
+{"价格": "¥18999.00", "详情": "41人付款", "title": "【24期免息】Apple/苹果16英寸新MacBook Pro i7处理器16G内存512GB笔记本电脑学生商务通用", "shop": "彪客数码旗舰店", "location": "浙江 杭州"}
+{"价格": "¥2310.40", "详情": "16人付款", "title": "Apple/苹果MacBook Pro13 15寸MF840 MJLT2 15款笔记本电脑i7独显", "shop": "航拓数码", "location": "广东 广州"}
+{"价格": "¥8988.00", "详情": "29人付款", "title": "【24期免息 现货速发】Apple/苹果 MacBook Pro 13.3英寸2019款苹果笔记本电脑128/256/512G轻薄商务", "shop": "宏音伟业数码专营", "location": "广东 深圳"}
+{"价格": "¥3188.00", "详情": "65人付款", "title": "苹果电脑笔记本MacBookAir超薄pro办公商务13寸15Apple游戏本便携", "shop": "广州旭阳科技", "location": "广东 广州"}
+{"价格": "¥16200.00", "详情": "12人付款", "title": "全新2019款Apple/苹果 MacBook Pro MPXQ2CH/A笔记本电脑13寸16寸", "shop": "朗朗电玩", "location": "浙江 杭州"}
+{"价格": "¥2788.00", "详情": "62人付款", "title": "设计师专用苹果笔记本电脑macbook pro办公用手提商务游戏本高配", "shop": "真心做生意诚信赢天下", "location": "广东 深圳"}
+{"价格": "¥4000.00", "详情": "48人付款", "title": "Apple苹果MacBook Pro官翻全新未激活 13 15寸超薄商务笔记本电脑", "shop": "航拓数码", "location": "广东 广州"}
+{"价格": "¥17688.00", "详情": "96人付款", "title": "【官方正品 新款】Apple/苹果16英寸新MacBookPro九代八核 i9/16G/1TB笔记本电脑商务本16寸触控栏和触控ID", "shop": "乐自由数码专营店", "location": "广东 广州"}
+{"价格": "¥16599.00", "详情": "0人付款", "title": "19款Apple/苹果 15.4英寸MacBook Pro 256G 存储容量 带触控栏和触控ID 2.6GHz六核处理器商务办公笔记本电脑", "shop": "迈向数码旗舰店", "location": "北京"}
+{"价格": "¥5788.00", "详情": "66人付款", "title": "新款Apple/苹果 MacBook Pro MPXQ2CH/A商务笔记本电脑15寸超薄13", "shop": "lsx淘依阁", "location": "广东 深圳"}
+{"价格": "¥15000.00", "详情": "47人付款", "title": "20款Apple/苹果 MacBook Pro MPXQ2CH/A13寸 16寸官方标配", "shop": "安琪糖糖", "location": "广东 深圳"}
+{"价格": "¥3188.00", "详情": "77人付款", "title": "Apple苹果MacBookAir超薄pro办公商务笔记本电脑 13寸游戏本便携", "shop": "apple数码科技1909", "location": "广东 广州"}
+{"价格": "¥6100.00", "详情": "42人付款", "title": "Apple/苹果 MacBook Pro MPXQ2CH/A 13寸 i7 16G 16寸苹果笔记本", "shop": "cxg19870306", "location": "陕西 西安"}
+{"价格": "¥15388.00", "详情": "0人付款", "title": "Apple/苹果13.3英寸MacBook Pro 512G固态硬盘i5处理器笔记本电脑", "shop": "云杏旗舰店", "location": "浙江 杭州"}
+{"价格": "¥1888.00", "详情": "194人付款", "title": "苹果高配置笔记本电脑macbook办公用i7游戏本商务pro超薄air学生", "shop": "li李丹淼", "location": "广东 广州"}
+{"价格": "¥10980.00", "详情": "6人付款", "title": "Apple/苹果 MacBook Pro MV912 MV932 苹果笔记本电脑 特价", "shop": "李小麦的店", "location": "北京"}
+{"价格": "¥1258.00", "详情": "809人付款", "title": "Apple/苹果笔记本电脑MacBook Air轻薄便携学生超薄游戏本手提pro", "shop": "周旺数码电脑", "location": "浙江 杭州"}
+{"价格": "¥1260.00", "详情": "207人付款", "title": "苹果笔记本电脑macbook学生pro手提游戏本轻薄便携air女生款超薄", "shop": "罗若谊", "location": "广东 深圳"}
+{"价格": "¥8351.64", "详情": "47人付款", "title": "Apple苹果 MacBook Pro 2019新款定制官翻 13 15寸二手笔记本电脑", "shop": "hinatavjack", "location": "广东 广州"}
+{"价格": "¥4399.00", "详情": "59人付款", "title": "Apple/苹果 MacBook Pro MF839CH/A13寸笔记本电脑办公本15英寸i7", "shop": "乐途本本", "location": "广东 广州"}
+{"价格": "¥7150.00", "详情": "33人付款", "title": "2019全新Apple苹果MacBook Pro 笔记本电脑手提1718款13.3 15英寸", "shop": "腾远创数码", "location": "广东 广州"}
+{"价格": "¥6414.00", "详情": "6人付款", "title": "Apple/苹果 13英寸 MacBook Pro 13寸i7笔记本16电脑2019定制特价", "shop": "hongjie021ji", "location": "广东 广州"}
+{"价格": "¥1288.00", "详情": "64人付款", "title": "Apple/苹果 MacBook Air MMGF2 Pro超薄i5独显手提本笔记本电脑17", "shop": "小强9淘", "location": "广东 广州"}
+{"价格": "¥3516.00", "详情": "27人付款", "title": "Apple/苹果 MacBook Pro MF839CH/A13寸笔记本电脑办公本15英寸i7", "shop": "rlhuangrl", "location": "广东 广州"}
+{"价格": "¥4398.00", "详情": "44人付款", "title": "Apple/苹果2015款MacBookPro笔记本电脑13-15寸MF839/840手提i5i7", "shop": "tb941660722", "location": "广东 广州"}
+{"价格": "¥18999.00", "详情": "2人付款", "title": "2019款Apple/苹果16英寸MacBook Pro笔记本电脑国行原装全新正品", "shop": "裙子也疯狂", "location": "江苏 南京"}
+{"价格": "¥18999.00", "详情": "", "title": "Apple/苹果 16 英寸 MacBook Pro 2.6GHz 6 核处理器 512GB 存储容量 AMD Radeon Pro 5300M", "shop": "applestore官方旗舰店", "location": "上海"}
+{"价格": "¥18499.00", "详情": "5人付款", "title": "【苏宁正品】2018款 Apple/苹果 MacBook Pro 15.4英寸 2.6G六核i7/16G/512G/RP 560X笔记本电脑带Touch Bar", "shop": "苏宁易购官方旗舰店", "location": "江苏 南京"}
+{"价格": "¥19888.00", "详情": "1人付款", "title": "【苏宁正品】2019新款 苹果/Apple MacBook Pro 15.4英寸笔记本电脑 2.3G八核9代i9/16G/512G/RP560X/触控栏", "shop": "苏宁易购官方旗舰店", "location": "江苏 南京"}
+{"价格": "¥7999.00", "详情": "18人付款", "title": "Apple/苹果 13.3英寸MacBook Pro 128GB笔记本家用办公学习学生商务笔记本电脑", "shop": "卓辰数码旗舰店", "location": "浙江 杭州"}
+{"价格": "¥9899.00", "详情": "3人付款", "title": "【新款】19款Apple/苹果MacBook Pro 128G带触控条触控ID四核处理器家用办公学习学生商务笔记本电脑", "shop": "卓辰数码旗舰店", "location": "浙江 杭州"}
+{"价格": "¥11299.00", "详情": "0人付款", "title": "【新款】19年新款 Apple/苹果 MacBook Pro笔记本电脑13.3英寸256G带触控", "shop": "彪客数码旗舰店", "location": "浙江 杭州"}
+{"价格": "¥9899.00", "详情": "2人付款", "title": "【新款】19年款 Apple/苹果MacBook Pro笔记本电脑13.3英寸128G办公轻薄", "shop": "彪客数码旗舰店", "location": "浙江 杭州"}
+{"价格": "¥20188.00", "详情": "2人付款", "title": "【现货速发】Apple/苹果 16英寸MacBook Pro i9处理器8核九代16GB内存1TB固态硬盘触控栏触控ID视网膜屏超薄", "shop": "润森数码旗舰店", "location": "广东 深圳"}
+{"价格": "¥9799.00", "详情": "0人付款", "title": "[限时享24期免息]Apple/苹果 13.3英寸MacBook Pro 256GB笔记本家用办公学习学生商务笔记本电脑", "shop": "启首数码旗舰店", "location": "浙江 杭州"}
+{"价格": "¥8599.00", "详情": "0人付款", "title": "[限时享24期免息]Apple/苹果 13.3英寸MacBook Pro 128GB笔记本家用办公学习学生商务笔记本电脑", "shop": "启首数码旗舰店", "location": "浙江 杭州"}
+{"价格": "¥17288.00", "详情": "0人付款", "title": "【现货速发】Apple/苹果 16英寸MacBook Pro i7处理器6核九代16GB内存512GB固态硬盘触控栏和触控ID视网膜屏", "shop": "润森数码旗舰店", "location": "广东 深圳"}
+{"价格": "¥9988.00", "详情": "0人付款", "title": "MacBook Pro128G带触控条触控ID13.3英寸1.4GHz处理器笔记本电脑", "shop": "云杏旗舰店", "location": "浙江 杭州"}
+{"价格": "¥1260.00", "详情": "159人付款", "title": "苹果笔记本电脑女生款超薄MacBookAir手提轻薄便携学生pro游戏本", "shop": "泽本科技", "location": "广东 深圳"}
+{"价格": "¥22099.00", "详情": "0人付款", "title": "MacBook Pro16英寸 2.3GHz八核i9处理器1T固态存储轻薄笔记本电脑", "shop": "云杏旗舰店", "location": "浙江 杭州"}
+{"价格": "¥1780.00", "详情": "423人付款", "title": "i7苹果笔记本电脑MacBook Air轻薄便携学生手提游戏本超薄12寸Pro", "shop": "苹果电脑批发商城", "location": "广东 佛山"}
+{"价格": "¥19999.00", "详情": "3人付款", "title": "【新款24期免息】Apple/苹果16英寸MacBook Pro 6核九代i7处理器16GB内存512GB固态硬盘带触控栏触控ID视网", "shop": "迈向数码旗舰店", "location": "北京"}
+{"价格": "¥2948.00", "详情": "18人付款", "title": "MacBook Air苹果笔记本电脑1213寸15超薄学生商务办公设计剪辑pro", "shop": "棉花糖07097", "location": "浙江 杭州"}
+{"价格": "¥9200.00", "详情": "19人付款", "title": "Apple/苹果 MacBook Pro MVVK2 VJ2/912美国版i9笔记本1T代购2019", "shop": "zhuxiaoming1113", "location": "天津"}
+{"价格": "¥5388.00", "详情": "26人付款", "title": "Apple/苹果 Macbook Pro MPXW2CH/A 9Q2 17/18款13寸i5笔记本电脑", "shop": "亿博科技99", "location": "广东 广州"}
+{"价格": "¥6700.00", "详情": "8人付款", "title": "Apple/苹果 13英寸 MacBook Pro 17款 18款 19新款Retina屏幕15寸", "shop": "乐舞飞扬000", "location": "陕西 西安"}
+{"价格": "¥1260.00", "详情": "53人付款", "title": "苹果笔记本电脑MacBookAir女生款超薄手提pro轻薄便携学生游戏本", "shop": "泽本科技", "location": "广东 深圳"}
+{"价格": "¥2188.00", "详情": "92人付款", "title": "Apple/苹果 MacBook Pro MF839CH/A840 13寸15寸i7独显笔记本电脑", "shop": "x孤独的总和", "location": "广东 深圳"}
+{"价格": "¥4030.80", "详情": "17人付款", "title": "Apple/苹果 MacBook Pro MF839CH/A 840 13 15寸i7独显笔记本电脑", "shop": "hongjie021ji", "location": "广东 广州"}
+{"价格": "¥3688.00", "详情": "106人付款", "title": "苹果笔记本电脑超薄设计师专用轻薄便携办公用macbook学生pro商务", "shop": "455216873com", "location": "广东 深圳"}
+{"价格": "¥5588.00", "详情": "27人付款", "title": "Apple/苹果 MacBook Pro MPXQ2CH/A 笔记本电脑13寸15寸新款", "shop": "刘琳19880526", "location": "广东 广州"}
